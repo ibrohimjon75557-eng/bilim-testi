@@ -1,0 +1,6 @@
+{
+  "name": "BilimTest Pro — Onlayn Ta'lim va Test Platformasi",
+  "description": "O'zbek tilidagi zamonaviy, tezkor va xavfsiz onlayn ta'lim hamda test platformasi. Telegram orqali tasdiqlash, DOCX savollar importi, Excel eksport, offline test davom ettirish va analitika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
